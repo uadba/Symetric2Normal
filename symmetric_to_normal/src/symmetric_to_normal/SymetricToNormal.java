@@ -26,9 +26,9 @@ public class SymetricToNormal {
 		// print them
 		for (int i = 0; i < normal.length; i++) {
 			
-			System.out.println(normal[i]);
-			
-		}		
+			System.out.println(normal[i]);			
+		}
+		System.out.println("Deneme");
 		
 	}
 
